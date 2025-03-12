@@ -20,9 +20,6 @@ Data for this project will be gathered from both historical and modern sources:
   - **Supplementary Datasets:**  
     Additional datasets from sectors such as education and the finance market to enrich the analysis and draw broader comparisons. These may include dropout rates, career trajectories, and financial performance metrics.
 
-- **Qualitative Data:**
-  - **Narratives and Interviews:**  
-    To add context, qualitative data such as documented personal accounts, case studies, or interviews may be collected, especially where available from educational or athletic career studies.
 
 ## Data Usage
 
