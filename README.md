@@ -32,12 +32,6 @@ This project aims to answer the following key research questions:
   - Additional datasets from sectors such as **education and the finance market** to enrich the analysis and draw broader comparisons.  
   - These may include **dropout rates, career trajectories, and financial performance metrics**.
 
-### **Qualitative Data**
-To add context, qualitative data such as **case studies, interviews, or reports** may be collected. Some key sources include:
-- **Personal Accounts of College Dropouts**:  
-  - Narratives and case studies from students who struggled after dropping out.
-- **Startup Failure Reports**:  
-  - Case studies and statistics on business failures vs. successful entrepreneurs.
 
 ---
 
@@ -50,9 +44,7 @@ To add context, qualitative data such as **case studies, interviews, or reports*
 - `Summary` – Description of how the aircraft was **damaged, shot down, or survived**.
 
 ### **Modern Business & Education Data**
-- `Education Level` – High school, college dropout, bachelor’s, master’s, etc.  
-- `Employment Status` – Employed, unemployed, entrepreneur.  
-- `Annual Income` – Salary or business revenue.  
+- `Education Level` – High school, college dropout, bachelor’s, master’s, etc.      
 - `Years in Industry` – Experience level in the chosen career.  
 - `Company Survival Rate` – Whether the business survived past a certain number of years.  
 - `Funding & Investment Data` – Initial capital for startups, investor backing.  
